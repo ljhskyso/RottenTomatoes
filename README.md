@@ -1,8 +1,8 @@
-# Project 1 - *Name of App Here*
+# Project 1 - RottenTomatoes
 
 Rotten Tomatoes is a movies app displaying box office and top rental DVDs using the [Rotten Tomatoes API](http://developer.rottentomatoes.com/docs/read/JSON).
 
-Time spent: 13 hours spent in total
+Time spent: 15 hours spent in total
 
 ## User Stories
 
@@ -39,13 +39,20 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+@dropbox - gif @ https://www.dropbox.com/s/w88ek9m5tb8kdmu/HW1.gif?dl=0'
+<img src='https://www.dropbox.com/s/w88ek9m5tb8kdmu/HW1.gif?dl=0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+@dropbox - quicktimes video @ https://www.dropbox.com/s/s2y3he79fgyzo8z/HW1.mov?dl=0
+
+@imgur - gif @ http://i.imgur.com/jbdjItK.gifv
+<img src='http://i.imgur.com/jbdjItK.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I found it a bit challenging to set the animation after loading the pics from http.
 
 ## License
 
