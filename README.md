@@ -46,7 +46,9 @@ Here's a walkthrough of implemented user stories:
 
 @imgur - gif @ http://i.imgur.com/jbdjItK.gifv
 <img src='http://i.imgur.com/jbdjItK.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+[Imgur](http://i.imgur.com/jbdjItK.gifv)
+<iframe class="imgur-embed" width="100%" height="722" frameborder="0" src="http://i.imgur.com/jbdjItK.gifv#embed"></iframe>
+[url=http://imgur.com/jbdjItK]http://i.imgur.com/jbdjItK.gifv[/url]
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
